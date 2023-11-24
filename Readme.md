@@ -1,4 +1,4 @@
-<div align='center' ><font size='20'><big><b> 数据集转换与可视化脚本 <p></p> script of dataset convert and visualize</b></big></font></div>
+<div align='center' ><big><b> 数据集转换与可视化脚本 <p></p> script of dataset convert and visualize</b></big></font></div>
 
 # 功能 function
 
