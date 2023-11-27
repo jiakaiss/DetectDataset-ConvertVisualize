@@ -4,7 +4,7 @@
 
 支持三种格式的数据集（YOLO VOC COCO）互转，以及加载标注可视化。
 <p></p>
-Support for interconversion of data sets in three formats (YOLO VOC COCO), as well as loading annotation to visualize.
+Support for interconversion of datasets in three formats (YOLO VOC COCO), as well as loading annotation to visualize.
 
 # 框架
 ```
